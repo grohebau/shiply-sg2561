@@ -1,6 +1,6 @@
 {
   "G55829": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Paul Werner, Lustgartenstraße 1, 79576 Weil am Rhein, Deutschland",
     "receiver": "Manuela Prieler, Hohenberg 49, 8943 Aigen im Ennstal, Österreich",
@@ -14,6 +14,6 @@
       { "name": "AGB", "url": "docs/AGB.pdf" }
     ],
     "orderDate": "20-08-2025",
-    "deliveryDate": "28-08-2025"
+    "deliveryDate": "29-08-2025, 15:30 Uhr"
   }
 }
